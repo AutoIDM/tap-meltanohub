@@ -83,6 +83,12 @@
     },
     "executable": {
       "type": "string"
+    },
+    "commands": {
+      "type": "object"
+    },
+    "requires": {
+      "type": "object"
     }
   },
   "required": [
