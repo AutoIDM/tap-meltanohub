@@ -89,7 +89,6 @@
     }
   },
   "required": [
-    "label",
     "name",
     "logo_url",
     "namespace",
