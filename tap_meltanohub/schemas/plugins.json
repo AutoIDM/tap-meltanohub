@@ -93,15 +93,5 @@
     "vars": {
       "type": "object"
     }
-  },
-  "required": [
-    "name",
-    "namespace",
-    "variant",
-    "repo",
-    "docs",
-    "default",
-    "id",
-    "plugin_type"
-  ]
+  }
 }
